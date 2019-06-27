@@ -1,5 +1,5 @@
 [package]
-name = "SimpleFunction"
+name = "simple_function"
 version = "0.1.0"
 authors = ["Paul Hubbard <phubbard67@gmail.com>"]
 edition = "2018"
